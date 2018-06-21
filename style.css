@@ -1,0 +1,26 @@
+#title-text{
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Tajawal', sans-serif;
+}
+
+body{
+    background-color:#8da1b9;
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+.navbar {
+    background-color: white;
+    color: white;
+    font-family: 'Tajawal', sans-serif;
+}
+
+h2{
+    font-family: 'Tajawal', sans-serif;
+    font-style:  italic;
+}
+
+.political-pic {
+    position: relative;
+}
